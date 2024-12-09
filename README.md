@@ -1,4 +1,4 @@
-# Color Filtering in Video [EN]
+# Color Filtering in Video  [EN]
 
 This program demonstrates color filtering in a video using OpenCV library in Python. The user can choose one of three color filters to apply to the video: blue filter, star filter, and lighting filter.
 
